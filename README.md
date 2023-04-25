@@ -3,7 +3,8 @@
 ## Basic  
 
 ### 자료구조 (Data structure)  
-정렬별 장단점 및 시간복잡도 : https://yabmoons.tistory.com/m/250
+정렬별 장단점 및 시간복잡도  
+https://yabmoons.tistory.com/m/250
 
 ### 네트워크 (Network)  
 HTTP 통신 : https://bentist.tistory.com/35  
@@ -12,5 +13,7 @@ HTTP 통신2 : https://daru-daru.tistory.com/29
 
 ## Unreal Engine
 
-### 화면 왜곡 (Screen distortion)
-https://www.artstation.com/blogs/emrekarabacak/mepZ/unreal-engine-4-post-process-lens-distortion
+화면 왜곡 : https://www.artstation.com/blogs/emrekarabacak/mepZ/unreal-engine-4-post-process-lens-distortion  
+
+### Http 받기 & 제이슨 파일 파싱 (Get Http & Json Parsing)    
+https://www.youtube.com/watch?v=vLGZp5hl6qU

@@ -14,5 +14,7 @@ HTTP 통신2 (Blog) : https://daru-daru.tistory.com/29
 
 화면 왜곡 : https://www.artstation.com/blogs/emrekarabacak/mepZ/unreal-engine-4-post-process-lens-distortion  
 
+Rest Api in Unreal Engine : https://algorfati.tistory.com/14  
+
 Get http & Json Parsing (Youtube) : https://www.youtube.com/watch?v=vLGZp5hl6qU  
 

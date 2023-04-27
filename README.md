@@ -18,3 +18,4 @@ Rest Api in Unreal Engine : https://algorfati.tistory.com/14
 
 Get http & Json Parsing (Youtube) : https://www.youtube.com/watch?v=vLGZp5hl6qU  
 
+UVs (Youtube) : https://www.youtube.com/watch?v=Kp7Dl3AhUKE  

@@ -17,7 +17,7 @@ Screen Distortion : https://www.artstation.com/blogs/emrekarabacak/mepZ/unreal-e
 
 UVs (Youtube) : https://www.youtube.com/watch?v=Kp7Dl3AhUKE  
 
-VVs (Youtube) : https://www.youtube.com/watch?v=gwx2NOZJ5CE&t=794s  
+UVs (Youtube) : https://www.youtube.com/watch?v=gwx2NOZJ5CE&t=794s  
 
 ### Programming  
 

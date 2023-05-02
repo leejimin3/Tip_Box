@@ -1,6 +1,6 @@
 # **Study Tip Page**📙
 
-## Basic  
+## Computer Science  
 
 ### Data structure  
 Sort & Big O (Blog) : https://yabmoons.tistory.com/m/250

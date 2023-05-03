@@ -24,3 +24,9 @@ UVs (Youtube) : https://www.youtube.com/watch?v=gwx2NOZJ5CE&t=794s
 Rest Api in Unreal Engine (Blog) : https://algorfati.tistory.com/14  
 
 Get http & Json Parsing (Youtube) : https://www.youtube.com/watch?v=vLGZp5hl6qU  
+
+
+## ETC
+
+### Server
+Connent Ubuntu Error (Blog) : https://ingnoh.tistory.com/38  

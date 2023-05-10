@@ -10,7 +10,6 @@ HTTP (Blog) : https://bentist.tistory.com/35
 HTTP (Blog) : https://daru-daru.tistory.com/29  
 RPC (Blog) : https://velog.io/@jakeseo_me/RPC%EB%9E%80  
 
-
 ## Unreal Engine  
 
 ### Engine    
@@ -26,8 +25,10 @@ Rest Api in Unreal Engine (Blog) : https://algorfati.tistory.com/14
 
 Get http & Json Parsing (Youtube) : https://www.youtube.com/watch?v=vLGZp5hl6qU  
 
-
 ## ETC
 
-### Server
+### Server  
+
+WebSocket - IWebSocket Interface (Youtube) : https://www.youtube.com/watch?v=l9TTmtDBTWY  
+
 Connent Ubuntu Error (Blog) : https://ingnoh.tistory.com/38  

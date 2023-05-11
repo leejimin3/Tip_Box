@@ -19,6 +19,8 @@ UVs (Youtube) : https://www.youtube.com/watch?v=Kp7Dl3AhUKE
 
 UVs (Youtube) : https://www.youtube.com/watch?v=gwx2NOZJ5CE&t=794s  
 
+Event Dispatch (Youtube) : https://www.youtube.com/watch?v=HLHueQLKcGc
+
 ### Programming  
 
 Rest Api in Unreal Engine (Blog) : https://algorfati.tistory.com/14  

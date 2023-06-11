@@ -2,17 +2,17 @@
 
 ## Computer Science  
 
-### Data structure  
+### Data structure
 Sort & Big O (Blog) : https://yabmoons.tistory.com/m/250
 
-### Network  
+### Network
 HTTP (Blog) : https://bentist.tistory.com/35  
 HTTP (Blog) : https://daru-daru.tistory.com/29  
 RPC (Blog) : https://velog.io/@jakeseo_me/RPC%EB%9E%80  
 
-## Unreal Engine  
+## Unreal Engine
 
-### Engine    
+### Engine
 
 MacOS + VSCode + UE5.1 (Youtube): https://www.youtube.com/watch?v=7eJRDHCTgQA  
   
@@ -24,7 +24,7 @@ UVs (Youtube) : https://www.youtube.com/watch?v=gwx2NOZJ5CE&t=794s
 
 Event Dispatch (Youtube) : https://www.youtube.com/watch?v=HLHueQLKcGc
 
-### Programming  
+### Programming
 
 Rest Api in Unreal Engine (Blog) : https://algorfati.tistory.com/14  
 
@@ -32,7 +32,7 @@ Get http & Json Parsing (Youtube) : https://www.youtube.com/watch?v=vLGZp5hl6qU
 
 ## ETC
 
-### Server  
+### Server
 
 WebSocket - IWebSocket Interface (Youtube) : https://www.youtube.com/watch?v=l9TTmtDBTWY  
 

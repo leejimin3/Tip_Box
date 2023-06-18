@@ -1,4 +1,4 @@
-# **Study Tip Page**📙
+# **Study Tip Page**📙  
 
 ## Computer Science  
 

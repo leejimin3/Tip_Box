@@ -11,7 +11,8 @@ HTTP (Blog) : https://daru-daru.tistory.com/29
 RPC (Blog) : https://velog.io/@jakeseo_me/RPC%EB%9E%80  
 
 ### ETC
-C# <--> C++ Template (Blog) : https://amored8701.tistory.com/146
+C# <--> C++ Algorithm Table (Blog) : https://amored8701.tistory.com/146  
+Game Prototype (Blog) : https://drehzr.tistory.com/  
 
 ## Unreal Engine
 

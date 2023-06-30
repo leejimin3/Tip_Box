@@ -9,6 +9,7 @@ Sort & Big O (Blog) : https://yabmoons.tistory.com/m/250
 HTTP (Blog) : https://bentist.tistory.com/35  
 HTTP (Blog) : https://daru-daru.tistory.com/29  
 RPC (Blog) : https://velog.io/@jakeseo_me/RPC%EB%9E%80  
+NetWork history(Blog) : https://blog.naver.com/PostView.naver?blogId=wonjinho81&logNo=222568765867&parentCategoryNo=&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView  
 
 ### ETC
 C# <--> C++ Algorithm Table (Blog) : https://amored8701.tistory.com/146  

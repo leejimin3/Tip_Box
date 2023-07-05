@@ -30,6 +30,8 @@ Event Dispatch (Youtube) : https://www.youtube.com/watch?v=HLHueQLKcGc
 
 ### Programming
 
+UPROPERTY & Other Info (Blog) : https://darkcatgame.tistory.com/62  
+
 Rest Api in Unreal Engine (Blog) : https://algorfati.tistory.com/14  
 
 Get http & Json Parsing (Youtube) : https://www.youtube.com/watch?v=vLGZp5hl6qU  

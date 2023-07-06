@@ -26,6 +26,8 @@ UVs (Youtube) : https://www.youtube.com/watch?v=Kp7Dl3AhUKE
 
 UVs (Youtube) : https://www.youtube.com/watch?v=gwx2NOZJ5CE&t=794s  
 
+Tentacle (Youtube) : https://www.youtube.com/watch?v=aDDCKeEWt4g  
+
 Event Dispatch (Youtube) : https://www.youtube.com/watch?v=HLHueQLKcGc
 
 ### Programming

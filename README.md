@@ -41,7 +41,11 @@ Rest Api in Unreal Engine (Blog) : https://algorfati.tistory.com/14
 
 Get http & Json Parsing (Youtube) : https://www.youtube.com/watch?v=vLGZp5hl6qU  
 
-## ETC
+### ETC
+
+UE MacketPlace Seller (Blog) : https://rgy0409.tistory.com/786  
+
+## OTHER
 
 ### Server
 

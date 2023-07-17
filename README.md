@@ -1,11 +1,12 @@
-# **Study Tip Page**📙  
+# **Study Tip Page**📙
+###### This is my style tip page.
+
 
 ## Computer Science  
 
-### Data structure
+
 Sort & Big O (Blog) : https://yabmoons.tistory.com/m/250
 
-### Network
 HTTP (Blog) : https://bentist.tistory.com/35   
 
 HTTP (Blog) : https://daru-daru.tistory.com/29  
@@ -18,7 +19,6 @@ WebSocket - IWebSocket Interface (Youtube) : https://www.youtube.com/watch?v=l9T
 
 Connent Ubuntu Error (Blog) : https://ingnoh.tistory.com/38  
 
-### ETC
 C# <--> C++ Algorithm Table (Blog) : https://amored8701.tistory.com/146  
 
 ## Unreal Engine

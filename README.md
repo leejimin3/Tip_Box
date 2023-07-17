@@ -21,6 +21,8 @@ C# <--> C++ Algorithm Table (Blog) : https://amored8701.tistory.com/146
 
 ### Engine
 
+GamePlay PipeLine (Blog) : https://blog.naver.com/PostView.naver?blogId=ratoa&logNo=222310933488&parentCategoryNo=&categoryNo=76&viewDate=&isShowPopularPosts=false&from=postView  
+
 MacOS + VSCode + UE5.1 (Youtube): https://www.youtube.com/watch?v=7eJRDHCTgQA  
   
 Screen Distortion : https://www.artstation.com/blogs/emrekarabacak/mepZ/unreal-engine-4-post-process-lens-distortion  

@@ -14,12 +14,14 @@ RPC (Blog) : https://velog.io/@jakeseo_me/RPC%EB%9E%80
 
 NetWork history(Blog) : https://blog.naver.com/PostView.naver?blogId=wonjinho81&logNo=222568765867&parentCategoryNo=&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView  
 
+WebSocket - IWebSocket Interface (Youtube) : https://www.youtube.com/watch?v=l9TTmtDBTWY  
+
+Connent Ubuntu Error (Blog) : https://ingnoh.tistory.com/38  
+
 ### ETC
 C# <--> C++ Algorithm Table (Blog) : https://amored8701.tistory.com/146  
 
 ## Unreal Engine
-
-### Engine
 
 GamePlay PipeLine (Blog) : https://blog.naver.com/PostView.naver?blogId=ratoa&logNo=222310933488&parentCategoryNo=&categoryNo=76&viewDate=&isShowPopularPosts=false&from=postView  
 
@@ -33,9 +35,9 @@ UVs (Youtube) : https://www.youtube.com/watch?v=gwx2NOZJ5CE&t=794s
 
 Tentacle (Youtube) : https://www.youtube.com/watch?v=aDDCKeEWt4g  
 
-Event Dispatch (Youtube) : https://www.youtube.com/watch?v=HLHueQLKcGc
+Event Dispatch (Youtube) : https://www.youtube.com/watch?v=HLHueQLKcGc  
 
-### Programming
+UE MacketPlace Seller (Blog) : https://rgy0409.tistory.com/786  
 
 UPROPERTY & Other Info (Blog) : https://darkcatgame.tistory.com/62  
 
@@ -45,14 +47,8 @@ Get http & Json Parsing (Youtube) : https://www.youtube.com/watch?v=vLGZp5hl6qU
 
 About C++ Effective (Blog) : https://koreanfoodie.me/1146  
 
-### ETC
+## Unity
 
-UE MacketPlace Seller (Blog) : https://rgy0409.tistory.com/786  
+Unity-Localization (Blog) : https://sonsazang.tistory.com/18  
 
-## OTHER
 
-### Server
-
-WebSocket - IWebSocket Interface (Youtube) : https://www.youtube.com/watch?v=l9TTmtDBTWY  
-
-Connent Ubuntu Error (Blog) : https://ingnoh.tistory.com/38  

@@ -19,6 +19,8 @@ WebSocket - IWebSocket Interface (Youtube) : https://www.youtube.com/watch?v=l9T
 
 Connent Ubuntu Error (Blog) : https://ingnoh.tistory.com/38  
 
+Compile time & Run time (Blog) : https://yeko90.tistory.com/entry/compile-time%EC%BB%B4%ED%8C%8C%EC%9D%BC-%ED%83%80%EC%9E%84-vs-runtime%EB%9F%B0%ED%83%80%EC%9E%84-%EC%B0%A8%EC%9D%B4  
+
 C# <--> C++ Algorithm Table (Blog) : https://amored8701.tistory.com/146  
 
 ## Unreal Engine

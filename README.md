@@ -56,4 +56,8 @@ About C++ Effective (Blog) : https://koreanfoodie.me/1146
 
 Unity-Localization (Blog) : https://sonsazang.tistory.com/18  
 
+## ETC
 
+https://every-thing.tistory.com/217
+
+https://dbsco618.tistory.com/142

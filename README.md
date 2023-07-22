@@ -4,6 +4,7 @@
 
 ## Computer Science  
 
+C++ Smart Pointer (TCP School) : http://www.tcpschool.com/cpp/cpp_template_smartPointer  
 
 Sort & Big O (Blog) : https://yabmoons.tistory.com/m/250
 

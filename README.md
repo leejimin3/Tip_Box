@@ -26,6 +26,8 @@ Compile time & Run time (Blog) : https://yeko90.tistory.com/entry/compile-time%E
 
 C# <--> C++ Algorithm Table (Blog) : https://amored8701.tistory.com/146  
 
+Level Design (Youtube) : https://www.youtube.com/watch?v=LvFQyDeVfQg  
+
 ## Unreal Engine
 
 GamePlay PipeLine (Blog) : https://blog.naver.com/PostView.naver?blogId=ratoa&logNo=222310933488&parentCategoryNo=&categoryNo=76&viewDate=&isShowPopularPosts=false&from=postView  

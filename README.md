@@ -56,6 +56,6 @@ About C++ Effective (Blog) : https://koreanfoodie.me/1146
 
 Unity-Localization (Blog) : https://sonsazang.tistory.com/18  
 
-## ETC
+## ETC  
 
 Auto-Start Program (Blog) : https://dbsco618.tistory.com/142  

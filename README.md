@@ -12,6 +12,8 @@ HTTP (Blog) : https://bentist.tistory.com/35
 
 HTTP (Blog) : https://daru-daru.tistory.com/29  
 
+WeaterAPI (Blog) : https://toubi-tobap.tistory.com/10  
+
 RPC (Blog) : https://velog.io/@jakeseo_me/RPC%EB%9E%80  
 
 NetWork history(Blog) : https://blog.naver.com/PostView.naver?blogId=wonjinho81&logNo=222568765867&parentCategoryNo=&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView  

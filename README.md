@@ -36,7 +36,7 @@ GamePlay PipeLine (Blog) : https://blog.naver.com/PostView.naver?blogId=ratoa&lo
 
 MacOS + VSCode + UE5.1 (Youtube): https://www.youtube.com/watch?v=7eJRDHCTgQA  
   
-Screen Distortion : https://www.artstation.com/blogs/emrekarabacak/mepZ/unreal-engine-4-post-process-lens-distortion  
+Screen Distortion (Site) : https://www.artstation.com/blogs/emrekarabacak/mepZ/unreal-engine-4-post-process-lens-distortion  
 
 UVs (Youtube) : https://www.youtube.com/watch?v=Kp7Dl3AhUKE  
 

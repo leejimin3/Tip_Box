@@ -56,7 +56,7 @@ Get http & Json Parsing (Youtube) : https://www.youtube.com/watch?v=vLGZp5hl6qU
 
 About C++ Effective (Blog) : https://koreanfoodie.me/1146  
 
-How To Make Plugins dll (Medium) : https://medium.com/@heyulong333/ue5-how-to-create-a-plugin-that-works-with-dlls-packaging-and-external-files-11f8ff9d7491  
+How To Make Plugins dll (Medium Calumn) : https://medium.com/@heyulong333/ue5-how-to-create-a-plugin-that-works-with-dlls-packaging-and-external-files-11f8ff9d7491  
 
 ## Unity
 

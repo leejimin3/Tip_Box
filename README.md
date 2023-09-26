@@ -60,6 +60,8 @@ How To Make Plugins dll (Medium Calumn) : https://medium.com/@heyulong333/ue5-ho
 
 Change real light in UE5 with DMX (Youtube) : https://www.youtube.com/watch?v=DSDsriBklck  
 
+Character AOE (Youtube) : https://www.youtube.com/watch?v=67IKrz1oVjY  
+
 ## Unity
 
 Unity-Localization (Blog) : https://sonsazang.tistory.com/18  

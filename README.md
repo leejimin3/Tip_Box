@@ -79,3 +79,5 @@ ASMR (Site) : https://asoftmurmur.com/
 What is TroubleShooting (Blog) : https://velog.io/@lgsgst5613/Trouble-Shooting-%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85  
 
 Vector - Inner product(Dot product)(Blog) : https://rfriend.tistory.com/145   
+
+Tech blog shortcut blog (Blog) : https://techblogposts.com/blogs  

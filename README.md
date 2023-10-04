@@ -30,6 +30,10 @@ C# <--> C++ Algorithm Table (Blog) : https://amored8701.tistory.com/146
 
 Level Design (Youtube) : https://www.youtube.com/watch?v=LvFQyDeVfQg  
 
+
+
+
+
 ## Unreal Engine
 
 GamePlay PipeLine (Blog) : https://blog.naver.com/PostView.naver?blogId=ratoa&logNo=222310933488&parentCategoryNo=&categoryNo=76&viewDate=&isShowPopularPosts=false&from=postView  
@@ -62,9 +66,17 @@ Change real light in UE5 with DMX (Youtube) : https://www.youtube.com/watch?v=DS
 
 Character AOE (Youtube) : https://www.youtube.com/watch?v=67IKrz1oVjY  
 
+UE5 with DMX (Youtube) : https://www.youtube.com/watch?v=LSTOIVnaf0E  
+
+
+
 ## Unity
 
 Unity-Localization (Blog) : https://sonsazang.tistory.com/18  
+
+
+
+
 
 ## ETC  
 

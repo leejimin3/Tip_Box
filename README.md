@@ -93,3 +93,6 @@ What is TroubleShooting (Blog) : https://velog.io/@lgsgst5613/Trouble-Shooting-%
 Vector - Inner product(Dot product)(Blog) : https://rfriend.tistory.com/145   
 
 Tech blog shortcut blog (Blog) : https://techblogposts.com/blogs  
+
+Make git blog (Blog) : https://velog.io/@pyk0844/%EA%B9%83-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0%EC%89%BD%EA%B2%8C-%EA%B4%80%EB%A6%AC-%ED%95%98%EA%B8%B0  
+

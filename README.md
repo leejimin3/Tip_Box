@@ -96,3 +96,5 @@ Tech blog shortcut blog (Blog) : https://techblogposts.com/blogs
 
 Make git blog (Blog) : https://velog.io/@pyk0844/%EA%B9%83-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0%EC%89%BD%EA%B2%8C-%EA%B4%80%EB%A6%AC-%ED%95%98%EA%B8%B0  
 
+AI Code Helper Extension (BLog) : https://www.money369.co.kr/66802910-be23-4279-95b2-9356a762bdb4  
+

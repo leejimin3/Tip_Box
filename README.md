@@ -1,5 +1,5 @@
 # **Study Tip Page**📙  
-###### This is my style tip page    
+###### This is my style tip page  
 
 
 ## Computer Science  

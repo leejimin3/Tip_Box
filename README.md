@@ -1,4 +1,4 @@
-# **Study Tip Page**📙    
+# **Study Tip Page**📙  
 ###### This is my style tip page  
 
 

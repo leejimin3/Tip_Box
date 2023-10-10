@@ -74,6 +74,7 @@ UE5 with DMX (Youtube) : https://www.youtube.com/watch?v=LSTOIVnaf0E
 
 Unity-Localization (Blog) : https://sonsazang.tistory.com/18  
 
+Unity-Job System (Blog) : https://m.blog.naver.com/canny708/221557618976  
 
 ## ETC  
 

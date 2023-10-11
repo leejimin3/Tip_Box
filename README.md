@@ -68,6 +68,8 @@ Character AOE (Youtube) : https://www.youtube.com/watch?v=67IKrz1oVjY
 
 UE5 with DMX (Youtube) : https://www.youtube.com/watch?v=LSTOIVnaf0E  
 
+Smart Pointer (Blog) : https://jhtop0419.tistory.com/54  
+
 
 
 ## Unity

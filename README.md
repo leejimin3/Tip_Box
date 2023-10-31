@@ -30,7 +30,7 @@ C# <--> C++ algorithm table (Blog) : https://amored8701.tistory.com/146
 
 Level design (Youtube) : https://www.youtube.com/watch?v=LvFQyDeVfQg  
 
-
+Data Library from 42Seoul&Apple Developer Academy (Notion): https://80000coding.oopy.io/   
 
 
 

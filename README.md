@@ -32,7 +32,7 @@ Level design (Youtube) : https://www.youtube.com/watch?v=LvFQyDeVfQg
 
 Data Library from 42Seoul&Apple Developer Academy (Notion): https://80000coding.oopy.io/   
 
-
+Abstract Class vs Interface (Blog) : https://inpa.tistory.com/entry/JAVA-%E2%98%95-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4-vs-%EC%B6%94%EC%83%81%ED%81%B4%EB%9E%98%EC%8A%A4-%EC%B0%A8%EC%9D%B4%EC%A0%90-%EC%99%84%EB%B2%BD-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0  
 
 ## Unreal Engine
 

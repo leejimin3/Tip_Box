@@ -70,7 +70,7 @@ UE5 with DMX (Youtube) : https://www.youtube.com/watch?v=LSTOIVnaf0E
 
 Smart pointer (Blog) : https://jhtop0419.tistory.com/54  
 
-
+Unreal Engine package DDCs solution (Blog) : https://somworks.tistory.com/7  
 
 ## Unity
 

@@ -74,6 +74,8 @@ Smart pointer (Blog) : https://jhtop0419.tistory.com/54
 
 Unreal Engine package DDCs solution (Blog) : https://somworks.tistory.com/7  
 
+Unreal Engine with OpenAI API(Youtube) : https://www.youtube.com/watch?v=9PSDjxad-ng  
+
 ## Unity
 
 Unity-Localization (Blog) : https://sonsazang.tistory.com/18  

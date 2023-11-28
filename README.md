@@ -34,8 +34,6 @@ Data Library from 42Seoul&Apple Developer Academy (Notion): https://80000coding.
 
 Abstract Class vs Interface (Blog) : https://inpa.tistory.com/entry/JAVA-%E2%98%95-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4-vs-%EC%B6%94%EC%83%81%ED%81%B4%EB%9E%98%EC%8A%A4-%EC%B0%A8%EC%9D%B4%EC%A0%90-%EC%99%84%EB%B2%BD-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0  
 
-Modern Frontend (Blog) : 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  
-
 ## Unreal Engine
 
 GamePlay pipeLine (Blog) : https://blog.naver.com/PostView.naver?blogId=ratoa&logNo=222310933488&parentCategoryNo=&categoryNo=76&viewDate=&isShowPopularPosts=false&from=postView  

@@ -80,6 +80,8 @@ Unity-Localization (Blog) : https://sonsazang.tistory.com/18
 
 Unity-Job system (Blog) : https://m.blog.naver.com/canny708/221557618976  
 
+Unity Back-End Server Plugins Project(Youtube) : https://www.youtube.com/watch?v=wwyAaWGnHM4  
+
 ## ETC  
 
 Visual Studio shortcut (Blog) : https://yeko90.tistory.com/entry/c-visual-studio-%EB%8B%A8%EC%B6%95%ED%82%A4  

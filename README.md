@@ -68,6 +68,8 @@ Character AOE (Youtube) : https://www.youtube.com/watch?v=67IKrz1oVjY
 
 UE5 with DMX (Youtube) : https://www.youtube.com/watch?v=LSTOIVnaf0E  
 
+UE5 Make DMX Custom Lighting (Youtube) : https://www.youtube.com/watch?v=gGVfC1yF2S0  
+
 Smart pointer (Blog) : https://jhtop0419.tistory.com/54  
 
 Unreal Engine package DDCs solution (Blog) : https://somworks.tistory.com/7  

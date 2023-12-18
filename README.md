@@ -111,3 +111,5 @@ AI code helper extension (Blog) : https://www.money369.co.kr/66802910-be23-4279-
 How to make WOL develope environment (Blog) : https://m.blog.naver.com/kangyh5/222758793357  
 
 Hosting static site with AWS S3 (Blog) : http://fire-safety-web.s3-website.ap-northeast-2.amazonaws.com   
+
+GPT's Code Review (Blog) : https://online-unreal.tistory.com/269  

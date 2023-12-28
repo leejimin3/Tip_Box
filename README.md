@@ -78,6 +78,8 @@ Unreal Engine with OpenAI API (Youtube) : https://www.youtube.com/watch?v=9PSDjx
 
 UE5 Template ObjectPool (Youtube) : https://www.youtube.com/watch?v=KBVzfxI868E&t=1743s  
 
+UE5 SubSystem (Blog) : https://devjino.tistory.com/338  
+
 ## Unity
 
 Unity-Localization (Blog) : https://sonsazang.tistory.com/18  

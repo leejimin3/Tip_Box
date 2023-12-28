@@ -74,7 +74,9 @@ Smart pointer (Blog) : https://jhtop0419.tistory.com/54
 
 Unreal Engine package DDCs solution (Blog) : https://somworks.tistory.com/7  
 
-Unreal Engine with OpenAI API(Youtube) : https://www.youtube.com/watch?v=9PSDjxad-ng  
+Unreal Engine with OpenAI API (Youtube) : https://www.youtube.com/watch?v=9PSDjxad-ng  
+
+UE5 Template ObjectPool (Youtube) : https://www.youtube.com/watch?v=KBVzfxI868E&t=1743s  
 
 ## Unity
 

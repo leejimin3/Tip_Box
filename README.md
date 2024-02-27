@@ -123,3 +123,5 @@ How to make WOL develope environment (Blog) : https://m.blog.naver.com/kangyh5/2
 Hosting static site with AWS S3 (Blog) : http://fire-safety-web.s3-website.ap-northeast-2.amazonaws.com   
 
 GPT's Code Review (Blog) : https://online-unreal.tistory.com/269  
+
+Mind Map Tool (Site) : https://www.edrawmind.com/app/editor/  

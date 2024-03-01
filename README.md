@@ -86,6 +86,8 @@ UE5 ShortCut Command (Yutube) : https://www.youtube.com/watch?v=5vO6wt8VKvs
 
 UE4 AI_Behavior_tree (Blog) : https://awayteamkiller.tistory.com/5  
 
+UE5 Gameplay Ablilty System (Document) : https://docs.unrealengine.com/5.0/ko/gameplay-ability-system-for-unreal-engine/  
+
 ## Unity
 
 Unity-Localization (Blog) : https://sonsazang.tistory.com/18  

@@ -36,6 +36,8 @@ Abstract Class vs Interface (Blog) : https://inpa.tistory.com/entry/JAVA-%E2%98%
 
 SOLID Principle (Blog) : https://velog.io/@teo/Javascript%EC%97%90%EC%84%9C%EB%8F%84-SOLID-%EC%9B%90%EC%B9%99%EC%9D%B4-%ED%86%B5%ED%95%A0%EA%B9%8C  
 
+SOLID Principle 2 (Blog) : https://mangkyu.tistory.com/194  
+
 ## Unreal Engine
 
 GamePlay pipeLine (Blog) : https://blog.naver.com/PostView.naver?blogId=ratoa&logNo=222310933488&parentCategoryNo=&categoryNo=76&viewDate=&isShowPopularPosts=false&from=postView  

@@ -90,6 +90,8 @@ UE4 AI_Behavior_tree (Blog) : https://awayteamkiller.tistory.com/5
 
 UE5 Gameplay Ablilty System (Document) : https://docs.unrealengine.com/5.0/ko/gameplay-ability-system-for-unreal-engine/  
 
+UE5 GAS github guide (Github) : https://github.com/tranek/GASDocumentation  
+
 ## Unity
 
 Unity-Localization (Blog) : https://sonsazang.tistory.com/18  

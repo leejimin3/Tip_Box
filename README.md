@@ -92,6 +92,8 @@ UE5 Gameplay Ablilty System (Document) : https://docs.unrealengine.com/5.0/ko/ga
 
 UE5 GAS github guide (Github) : https://github.com/tranek/GASDocumentation  
 
+UE5 GAS TargetActor RPC (Youtube) : https://www.youtube.com/watch?v=VvkIuUnk05M  
+
 ## Unity
 
 Unity-Localization (Blog) : https://sonsazang.tistory.com/18  

@@ -94,6 +94,8 @@ UE5 GAS github guide (Github) : https://github.com/tranek/GASDocumentation
 
 UE5 GAS TargetActor RPC (Youtube) : https://www.youtube.com/watch?v=VvkIuUnk05M  
 
+UE5 Inventory (Youtube) : https://www.youtube.com/watch?v=67xSslqC-jE  
+
 ## Unity
 
 Unity-Localization (Blog) : https://sonsazang.tistory.com/18  

@@ -96,6 +96,8 @@ UE5 GAS TargetActor RPC (Youtube) : https://www.youtube.com/watch?v=VvkIuUnk05M
 
 UE5 Inventory (Youtube) : https://www.youtube.com/watch?v=67xSslqC-jE  
 
+UE5 FFastArraySerializer (Blog) : https://vorixo.github.io/devtricks/network-managers/  
+
 ## Unity
 
 Unity-Localization (Blog) : https://sonsazang.tistory.com/18  

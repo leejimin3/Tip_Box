@@ -98,6 +98,8 @@ UE5 Inventory (Youtube) : https://www.youtube.com/watch?v=67xSslqC-jE
 
 UE5 FFastArraySerializer (Blog) : https://vorixo.github.io/devtricks/network-managers/  
 
+UE5 GAS PredictionKey (Youtube) : [https://www.youtube.com/watch?v=WyyUPqdZQfU  ](https://youtu.be/WyyUPqdZQfU?feature=shared&t=1558)  
+
 ## Unity
 
 Unity-Localization (Blog) : https://sonsazang.tistory.com/18  

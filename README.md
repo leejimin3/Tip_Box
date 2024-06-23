@@ -100,6 +100,8 @@ UE5 FFastArraySerializer (Blog) : https://vorixo.github.io/devtricks/network-man
 
 UE5 GAS PredictionKey (Youtube) : [https://www.youtube.com/watch?v=WyyUPqdZQfU  ](https://youtu.be/WyyUPqdZQfU?feature=shared&t=1558)  
 
+UE5 About ListView (Blogs) : https://bornsoul.tistory.com/32, https://husk321.tistory.com/423  
+
 ## Unity
 
 Unity-Localization (Blog) : https://sonsazang.tistory.com/18  

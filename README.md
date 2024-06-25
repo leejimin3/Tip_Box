@@ -102,6 +102,8 @@ UE5 GAS PredictionKey (Youtube) : [https://www.youtube.com/watch?v=WyyUPqdZQfU  
 
 UE5 About ListView (Blogs) : https://bornsoul.tistory.com/32, https://husk321.tistory.com/423  
 
+UE5 GameplayMessageSystem (Blog) : https://unrealcommunity.wiki/tutorial:-using-the-gameplaymessagesystem-74b91d  
+
 ## Unity
 
 Unity-Localization (Blog) : https://sonsazang.tistory.com/18  

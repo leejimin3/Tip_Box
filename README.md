@@ -106,6 +106,8 @@ UE5 About ListView (Blogs) : https://bornsoul.tistory.com/32, https://husk321.ti
 
 UE5 GameplayMessageSystem (Blog) : https://unrealcommunity.wiki/tutorial:-using-the-gameplaymessagesystem-74b91d  
 
+UE UI (Blog) : https://benui.ca/  
+
 ## Unity
 
 Unity-Localization (Blog) : https://sonsazang.tistory.com/18  

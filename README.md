@@ -38,6 +38,8 @@ SOLID Principle (Blog) : https://velog.io/@teo/Javascript%EC%97%90%EC%84%9C%EB%8
 
 SOLID Principle 2 (Blog) : https://mangkyu.tistory.com/194  
 
+gRPC (medium) : https://medium.com/naver-cloud-platform/nbp-%EA%B8%B0%EC%88%A0-%EA%B2%BD%ED%97%98-%EC%8B%9C%EB%8C%80%EC%9D%98-%ED%9D%90%EB%A6%84-grpc-%EA%B9%8A%EA%B2%8C-%ED%8C%8C%EA%B3%A0%EB%93%A4%EA%B8%B0-1-39e97cb3460  
+
 ## Unreal Engine
 
 GamePlay pipeLine (Blog) : https://blog.naver.com/PostView.naver?blogId=ratoa&logNo=222310933488&parentCategoryNo=&categoryNo=76&viewDate=&isShowPopularPosts=false&from=postView  

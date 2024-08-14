@@ -42,6 +42,8 @@ gRPC (medium) : https://medium.com/naver-cloud-platform/nbp-%EA%B8%B0%EC%88%A0-%
 
 Data Driven (ETC) : https://www.thisisgame.com/webzine/nboard/4/?n=13836  
 
+Computer Grapics (Youtube & Blog) : https://www.youtube.com/watch?v=CAfdIW8M6HA&list=PLYEC1V9tJOl03WLDoUEKbiYW_Xt4W6LTl&index=4  https://media.korea.ac.kr/books/  
+
 ## Unreal Engine
 
 GamePlay pipeLine (Blog) : https://blog.naver.com/PostView.naver?blogId=ratoa&logNo=222310933488&parentCategoryNo=&categoryNo=76&viewDate=&isShowPopularPosts=false&from=postView  
